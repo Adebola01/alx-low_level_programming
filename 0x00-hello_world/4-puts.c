@@ -1,15 +1,20 @@
 #include <stdio.h>
+
+
+
 /**
  *
- *  * main - Prints quote
+ * * main - print the string in the put function
  *
- *   *
+ * *
  *
- *    * Return: zero on success
+ * * Description: using the main function
  *
- *     *
+ * * this program prints "Programming is like building a multilingual puzzle
  *
- *      */
+ * * Return: 0
+ *
+ * */
 
 int main(void)
 
