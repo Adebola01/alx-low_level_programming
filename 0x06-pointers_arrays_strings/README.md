@@ -1,3 +1,6 @@
+
+0x06. C - More pointers, arrays and string
+
 0. strcat
 1. strncat
 2. strncpy
