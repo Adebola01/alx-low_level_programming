@@ -4,13 +4,7 @@
 * Auth: Suleiman Adebola Bilikis
 */
 
-/**
- * _puts_recursion - writes the character c to stdout
- * char *s: The character to print
- *
- * Return: On success 1.
- * On error, -1 is returned, and errno is set appropriately.
- */
+/* function declaration */
 void _puts_recursion(char *s)
 {
 if (*s)
