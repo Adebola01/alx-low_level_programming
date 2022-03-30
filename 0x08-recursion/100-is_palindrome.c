@@ -1,6 +1,6 @@
 /*
  * File: 7-is_palindrome.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Suleiman Adebola Bilikis
  */
 
 #include "main.h"
