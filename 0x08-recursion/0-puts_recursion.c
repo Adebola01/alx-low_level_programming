@@ -1,7 +1,7 @@
 /*
- * File: 0-puts_recursion.c
- * Auth: Suleiman Adebola Bilikis
- */
+* File: 0-puts_recursion.c
+* Auth: Suleiman Adebola Bilikis
+*/
 
 #include "main.h"
 
