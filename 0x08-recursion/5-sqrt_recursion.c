@@ -1,6 +1,6 @@
 /*
  * File: 5-sqrt_recursion.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Suleiman Adebola Bilikis
  */
 
 #include "main.h"
