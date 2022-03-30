@@ -1,8 +1,8 @@
+#include "main.h"
 /*
 * File: 0-puts_recursion.c
 * Auth: Suleiman Adebola Bilikis
 */
-#include "main.h"
 void _puts_recursion(char*s)
 {
 if (*s)
