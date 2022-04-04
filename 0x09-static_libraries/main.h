@@ -2,7 +2,7 @@
 #define MAIN_H
 
 /*
- * File: libmy.a
+ * File: main.h
  * Auth: Suleiman Adebola Bilikis
  * Desc: Header file containing the prototypes of all functions
  *       included in the static library libmy.a
