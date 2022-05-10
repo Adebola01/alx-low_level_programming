@@ -1,13 +1,1 @@
-ed_textfile.c is a function that reads a text file and prints it to the POSIX standard output.
-
-
-
-File 1-create_file.c is a function that creates a file.
-
-
-
-File 2-append_text_to_file.c is a function that appends text at the end of a file.
-
-
-:wq
-
+This project is the first C project as part of the alx curriculum, and covers the very basics of compilation and C.
